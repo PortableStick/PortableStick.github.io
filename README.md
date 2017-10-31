@@ -1,6 +1,6 @@
 [Meteorite Strike Map](https://codepen.io/PortableStick/full/NAOgxP/)
 
-<video src="MeteoriteDemo.mp4" autoplay muted loop>
+<video src="MeteoriteDemo.mp4" autoplay muted loop/>
 
 [Horror Movie Earnings](https://codepen.io/PortableStick/full/mEJKPa/)
 
